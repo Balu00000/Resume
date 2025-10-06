@@ -4,12 +4,10 @@
 🌐 [github.com/Balu00000](https://github.com/Balu00000) | 💼 [www.linkedin.com/in/balogh-gergely](https://www.linkedin.com/in/balogh-gergely-4a464936a/)
 📍 Pécs, Hungary
 
----
 
 ## Professional Summary
 Angular developer with **1+ year** of hands-on experience building responsive web applications through dual training program. Specialized in **Angular 15+, TypeScript, and RxJS** with proven track record of delivering **full-stack solutions** for real-world projects. Passionate about creating efficient, user-friendly applications with **clean code architecture** and **modern development practices**.
 
----
 
 ## Technical Expertise
 
@@ -17,7 +15,6 @@ Angular developer with **1+ year** of hands-on experience building responsive we
 **Backend & Databases:** Java • C# • MySQL • REST APIs • JWT Authentication  
 **Development Tools:** Git/GitHub • VS Code • Postman • Chrome DevTools • Agile/Scrum
 
----
 
 ## Professional Experience
 
@@ -29,7 +26,6 @@ Angular developer with **1+ year** of hands-on experience building responsive we
 • **Collaborated with 5 senior developers** in Agile environment, delivering sprints on schedule  
 • **Optimized MySQL database queries**, improving application performance by 35%  
 
----
 
 ## Featured Projects
 
@@ -42,7 +38,6 @@ Angular developer with **1+ year** of hands-on experience building responsive we
 • **Optimised MySQL** – recipe search cut from 3 s to 0.5 s (83 % faster)    
 • **Code:** [github.com/Balu00000/Cookbook](https://github.com/Balu00000/Cookbook)
 
----
 
 ## Key Achievements
 🏆 **Graduated Top of the Class** of programming class (2023)  
@@ -50,7 +45,6 @@ Angular developer with **1+ year** of hands-on experience building responsive we
 🎯 **Delivered 5 production features** ahead of schedule in dual training program  
 ⭐ **Received excellence award** for best final year project
 
----
 
 ## Education
 
@@ -62,19 +56,16 @@ Angular developer with **1+ year** of hands-on experience building responsive we
 *Pécsi SZC Simonyi Károly Vocational Secondary School* | *Sep 2019 – May 2023* | Pécs, Hungary
 >Granted official FEOR 3142/9 qualification: qualified to work as Computer-System Maintainer
 
----
 
 ## Certifications & Learning
 • **Angular - The Complete Guide (2025 Edition)** - In Progress  
 • **Web Design Basics Course** - 2025  
 • **Office IT Specialist** - Pécsi SZC (2023)
 
----
 
 ## Languages
 **Hungarian:** Native | **English:** Full Professional Proficiency
 
----
 
 ## Interests
 Open Source Contributions • Tech Blogging • Angular Community • Problem Solving • Modern Web Technologies
